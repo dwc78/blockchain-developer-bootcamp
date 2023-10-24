@@ -8,6 +8,6 @@ import "hardhat/console.sol";
 // then name your contract
 contract Token {
     string public name = "My Token";
-
+    
 }
 // save with a space at the end of file
