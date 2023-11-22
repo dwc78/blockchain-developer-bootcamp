@@ -1,5 +1,6 @@
 
 async function main() {
+    // deploy.js created about 31:00 in video
    // fetch contract to deploy
     const Token = await ethers.getContractFactory("Token")
     
